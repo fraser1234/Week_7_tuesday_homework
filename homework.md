@@ -18,14 +18,15 @@
 
 3. What can we use to implement polymorphism in Java?
 
-  interfaces (abstracts?)
+  interfaces, abstracts, super class
 
 4. How many 'forms' can an object take when using polymorphism?
 
-  unlimited??
+  many
 
 5. Give an example of when you could use polymorphism.
-dog and cat extending animal
+
+  when grouping examples which have the same behaviours.
 
 
 
@@ -33,7 +34,7 @@ dog and cat extending animal
 
 6. What do we mean by 'composition' in reference to object-oriented programming?
 
-  composition is having an instance of another class. another use of inheritence.
+  composition is when a class references a group or family of behaviours.
 
 7. When would you use composition? Provide a simple example in Java.
 
@@ -45,8 +46,8 @@ dog and cat extending animal
 
 8. What is/are the advantage(s) of using composition?
 
-  very flexible
+  very flexible,
 
 9. What happens to the behaviours when the object composed of them is destroyed?
 
-  
+  they get destroyed as well.
